@@ -140,9 +140,11 @@ The ```.view_data``` method return a list of all the row in the database.
     ___
 
     ## Authors contact
-    ### phone 📞: [+2348123902721](tel:+234812392721)  
+    ### phone 📞: <a href="tel:+2348123902721"> +2348123902721</a>
     ### email 📨: [winninggodspower@gmail.com](mailto:winninggodspower@gmail.com)
-    ### website 🌐: [winningtech.tk](winningtech.tk)
+    ### website 🌐: [winningtech.tk](https://winningtech.tk/)
+
+    > if you dont have any request or issue please feel free to message..
 
 
 
