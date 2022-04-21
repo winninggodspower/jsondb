@@ -134,7 +134,7 @@ The ```.view_data``` method return a list of all the row in the database.
             db.filter_row(username = "Daniel")
 
         #Dont forget to decrypt the file before termination
-        db.dectypt() #to dectypt the data
+        db.decrypt() #to dectypt the data
     ```
 
     ___
